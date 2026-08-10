@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+app_v1_backup.py
+.agents/
+.claude/
