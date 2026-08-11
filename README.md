@@ -1,47 +1,36 @@
 # 📊 Smart Data Analytics & Preprocessing Dashboard
 
-A professional interactive Streamlit application for exploring, diagnosing,
-cleaning, preprocessing, visualizing, and exporting CSV datasets.
+A self-service Streamlit dashboard for exploring, cleaning, preprocessing and visualizing CSV datasets.
 
-## 🚀 Features
+## 🚀 Live Demo
 
-- CSV file upload
-- Dataset overview and profiling
-- Data Health Score
-- Missing-value detection
-- Duplicate detection
-- Numeric distribution analysis
-- Skewness and kurtosis
-- Q-Q plots
-- Statistical normality assessment
-- Automatic preprocessing recommendations
-- Mean and median imputation
-- Categorical missing-value handling
-- IQR outlier detection and removal
-- Empty and constant column detection
-- Before vs After preprocessing comparison
-- Interactive Plotly visualizations
-- Correlation analysis
-- Interactive filtering
-- Cleaned CSV export
+👉 https://masmi-smart-data.streamlit.app/
 
-## 🔄 Workflow
+## What It Does
 
-CSV Upload → Diagnose → Distribution Analysis → Clean → Visualize → Export
+- Uploads CSV datasets
+- Generates a Data Health Score
+- Detects missing values and duplicates
+- Analyzes numeric distributions
+- Displays Q-Q plots and normality assessment
+- Handles missing values
+- Detects IQR outliers
+- Compares data before and after preprocessing
+- Provides interactive visualizations
+- Exports the prepared dataset
 
-## 🛠 Technologies
+## Workflow
 
-- Python
-- Streamlit
-- pandas
-- NumPy
-- SciPy
-- Plotly
+**Upload → Diagnose → Distribution Analysis → Clean → Visualize → Export**
 
-## 👨‍💻 Developer
+## Technologies
+
+Python • pandas • NumPy • SciPy • Plotly • Streamlit • GitHub
+
+## Author
 
 **A. Masmi**
 
-Email: jovina@gmx.us
+Cybersecurity • Linux • AI & Data Science
 
-Data Analytics • Machine Learning • AI
+Portfolio: https://issam2023.github.io/masmi-portfolio/#projects
